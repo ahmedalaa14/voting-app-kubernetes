@@ -2,6 +2,7 @@
 
 ## Architecture
 
+
 ![Architecture diagram](architecture.excalidraw.png)
 
 * A front-end web app in [Python](/vote) which lets you vote between two options
