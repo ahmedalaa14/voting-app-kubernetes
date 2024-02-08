@@ -23,6 +23,6 @@ deal with them in Docker at a basic level.
 
 run all deployments and the service in the folder
 example
-``shell
+```shell
 kubectl create -f redis-deploy.yaml
 ```
