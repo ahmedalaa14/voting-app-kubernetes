@@ -3,7 +3,7 @@
 ## Architecture
 
 
-![Architecture diagram](![Alt text](architecture.excalidraw.png))
+(![Alt text](architecture.excalidraw.png))
 
 * A front-end web app in [Python](/vote) which lets you vote between two options
 * A [Redis](https://hub.docker.com/_/redis/) which collects new votes
